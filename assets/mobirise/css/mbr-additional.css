@@ -2143,7 +2143,7 @@ body {
 .cid-qDKPOay2Vw {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-720x1080.jpg");
+  background-image: url("../../../assets/images/eventbooth-800x1198.jpg");
 }
 .cid-qDKPOay2Vw .media-container-row {
   flex-direction: row-reverse;
@@ -2170,7 +2170,11 @@ body {
   color: #232323;
 }
 .cid-qDKPOay2Vw B {
-  color: #232323;
+  color: #073b4c;
+}
+.cid-qDKPOay2Vw .mbr-text,
+.cid-qDKPOay2Vw .mbr-section-btn B {
+  color: #ff7f9f;
 }
 .cid-qDKTkyEIRX {
   padding-top: 30px;
